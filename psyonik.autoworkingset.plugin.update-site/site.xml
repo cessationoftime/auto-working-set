@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/psyonik.autoworkingset.plugin.feature_0.0.0.jar" id="psyonik.autoworkingset.plugin.feature" version="0.0.0">
+      <category name="psyonik.autoworkingset.plugin"/>
+   </feature>
+   <feature url="features/psyonik.autoworkingset.plugin.source.feature_0.0.0.jar" id="psyonik.autoworkingset.plugin.source.feature" version="0.0.0">
+      <category name="psyonik.autoworkingset.plugin-source"/>
+   </feature>
+   <category-def name="psyonik.autoworkingset.plugin" label="Scala IDE Auto Working Set plugin"/>
+   <category-def name="psyonik.autoworkingset.plugin-source" label="Scala IDE Auto Working Set plugin Source"/> -->
+</site>
